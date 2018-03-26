@@ -10,6 +10,7 @@ env:
   - lxd_container_alias: centos/6/amd64
   - lxd_container_alias: ubuntu/16.04/amd64
   - lxd_container_alias: ubuntu/14.04/amd64
+  - lxd_container_alias: ubuntu/12.04/amd64
   - lxd_container_alias: debian/9/amd64
   - lxd_container_alias: debian/8/amd64
 
