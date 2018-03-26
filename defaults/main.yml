@@ -1,0 +1,8 @@
+---
+python2_install: true
+python2_pip_install: true
+python2_venv_install: true
+
+python3_install: false
+python3_pip_install: false
+python3_venv_install: false
